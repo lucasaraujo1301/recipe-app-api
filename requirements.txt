@@ -1,6 +1,11 @@
 asgiref==3.5.0
 Django==3.2.12
+django-environ==0.8.1
 djangorestframework==3.13.1
+flake8==3.6.0
+mccabe==0.6.1
+psycopg2-binary==2.9.3
+pycodestyle==2.4.0
+pyflakes==2.0.0
 pytz==2022.1
 sqlparse==0.4.2
-flake8>=3.6.0,<3.7.0
